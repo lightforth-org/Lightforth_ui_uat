@@ -2,7 +2,7 @@
 
 
 
-describe('visit Deel', () => {
+describe('LightForth UI e2e', () => {
 
 
 
