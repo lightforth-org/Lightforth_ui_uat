@@ -23,3 +23,8 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+// Import login.js using ES2015 syntax:
+import './login';
+import './common'
+import './CreateAccount'
